@@ -4,16 +4,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange.svg)](https://pytorch.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-green)](https://github.com/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-97.5%25-green)](https://github.com/)
-
-**Team Members:**
-*   **Lakhwinder Singh**
-*   **Pratham Bhardwaj**
-*   **Sanyam**
-
-**Plaksha University**  
-**Professor:** Dr. Anupam  
-
-
 ---
 
 ##  Project Video
